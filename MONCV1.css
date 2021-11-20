@@ -1,0 +1,77 @@
+body{
+/*couleur de fond (jaune)*/
+background-color:pink;
+
+/*largeur de l'elemen en soi*/
+width:85;
+height:85;
+
+/*Marge interieur*/
+padding:25px;
+
+/*Bordure (vert)*/
+border:40px solid #088;
+
+/*Marge exterieure*/
+margin-left:100px;
+margin-right:100px;
+margin-bottom:50px;
+margin-top:50px;
+
+border-radius:35px;
+box-shadow:5px 5px 6px black;
+}
+div{
+	background-color:#088;
+	margin-right:100px;
+	font-family:arial;
+	color-white;
+}
+h1{
+	text-align:center;
+	font-family:Elephant;
+	text-decoration:underline;
+	color:#088;
+}
+h1:hover{
+	color:red;
+}
+h2{
+	color:#088;
+	background-color:red
+}
+h2{
+	color:#088;
+	background-color:white;
+}
+
+
+table
+{
+	border-collapse:collapse;/*Les bordure du tableau seront collees (plus jolie)*/
+	width:100;
+	height:100;
+	border:5px solid #088;
+	border-radius:15px;
+}
+td
+{
+	border:1px solid black;
+}
+th{
+	border: 2px sold #088;
+	border-color:#088;
+	font-family:Elephant;
+	font-size:1.5em;
+	color:black;
+}
+ul{
+	margin-left:5px;
+	font-size:25px;
+	color:black;
+}
+img{
+	border:12px solid #088;
+	border-radius:15px;
+	margin-top:13.5px;
+}
